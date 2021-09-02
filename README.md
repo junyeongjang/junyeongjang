@@ -4,9 +4,9 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyeongjang)
-  
+<!--   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skd03052)](https://solved.ac/skd03052)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skd03052)](https://solved.ac/skd03052) -->
 
 
 
